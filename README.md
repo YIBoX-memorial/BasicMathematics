@@ -4,3 +4,5 @@ In order to start my research career, I plan to study several basic mathematical
 * Elias M. Stein Complex Analysis
 * Morris L. Marx An Introduction to Mathematical Statistics and Its Applications
 * Andrew Pressley Elememtary Differential Geometry
+* Elias M. Stein Real Analysis
+* Elias M. Stein Functional Analysis
