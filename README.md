@@ -8,3 +8,5 @@ In order to start my research career, I plan to study several basic mathematical
 * Andrew Pressley, Elememtary Differential Geometry
 * Elias M. Stein, Real Analysis
 * Elias M. Stein, Functional Analysis
+* Bubeck, Convex Optimization: Algorithms and Complexity
+* Bottou, Optimization Methods for Large-Scale Machine Learning
