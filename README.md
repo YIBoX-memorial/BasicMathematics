@@ -11,9 +11,10 @@ In order to start my research career, I plan to study several basic mathematical
 
 2021 Plan
 * Andrew Pressley, Elememtary Differential Geometry
-* Elias M. Stein, Real Analysis
+* Alexander Paulin, Introduction to Abstract Algebra
 * Bottou, Optimization Methods for Large-Scale Machine Learning
 
 2022 Plan
+* Elias M. Stein, Real Analysis
 * Elias M. Stein, Functional Analysis
 
