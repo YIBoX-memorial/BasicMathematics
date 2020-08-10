@@ -9,9 +9,10 @@ In order to start my research career, I plan to study several basic mathematical
 * Morris L. Marx, An Introduction to Mathematical Statistics and Its Applications
 * Bubeck, Convex Optimization: Algorithms and Complexity
 * Alexander Paulin, Introduction to Abstract Algebra, https://math.berkeley.edu/~apaulin/113(Summer2018).html
-* Andrew Pressley, Elememtary Differential Geometry
+* Roger A. Horn, Charles R. Johnson, Matrix analysis
 
 2021 Plan
+* Andrew Pressley, Elememtary Differential Geometry
 * John B. Conway, A Course in Functional Analysis
 * Bottou, Optimization Methods for Large-Scale Machine Learning
 * James E. Humphreys, Introduction to Lie Algebras and Representation Theory, GTM 9
