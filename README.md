@@ -15,7 +15,7 @@ In order to start my research career, I plan to study several basic mathematical
 * Andrew Pressley, Elememtary Differential Geometry
 * John B. Conway, A Course in Functional Analysis
 * Bottou, Optimization Methods for Large-Scale Machine Learning
-* James E. Humphreys, Introduction to Lie Algebras and Representation Theory, GTM 9
+
 
 2022 Plan
-None
+* James E. Humphreys, Introduction to Lie Algebras and Representation Theory, GTM 9
