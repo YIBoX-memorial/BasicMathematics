@@ -15,6 +15,7 @@ In order to start my research career, I plan to study several basic mathematical
 * Andrew Pressley, Elememtary Differential Geometry
 * John B. Conway, A Course in Functional Analysis
 * Bottou, Optimization Methods for Large-Scale Machine Learning
+* John G. Ratcliffe, Foundations of Hyperbolic Manifolds, GTM 149
 
 
 2022 Plan
